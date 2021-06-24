@@ -2,7 +2,7 @@ package com.ifelse;
 import java.util.*;
 
 public class find_max_and_min_number {
-
+//eriwrwuriuwiriuwriwriwrwri
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
